@@ -19,9 +19,9 @@
   "author": "Hossein Pira",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/codesandbox-app/static-template/issues"
+    "url": "https://sponzy.ir"
   },
-  "homepage": "https://github.com/codesandbox-app/static-template#readme",
+  "homepage": "https://sponzy.ir",
   "devDependencies": {
     "serve": "^11.2.0"
   }
