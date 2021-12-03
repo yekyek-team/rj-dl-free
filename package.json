@@ -5,16 +5,16 @@
   "main": "index.html",
   "scripts": {
     "start": "serve",
-    "build": "echo This is a static template, there is no bundler or bundling involved!"
+    "build": "echo This is a rj downloader, there is no bundler or bundling involved!"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/codesandbox-app/static-template.git"
+    "url": "git+https://github.com/asiapro-ir/rj-dl-free.git"
   },
   "keywords": [
-    "static",
-    "template",
-    "codesandbox"
+    "rj downloader",
+    "radio javan",
+    "jadio javan downloader"
   ],
   "author": "Hossein Pira",
   "license": "MIT",
